@@ -25,4 +25,4 @@ Perfect to practice **JS** and **basic math formulas**. ✨
 1. Clone the repo:  
 
 ```bash
-git clone https://github.com/divyasolanki07/js-math-programs.git
+git clone https://github.com/divyasolanki07/Basic_Calculation.js.git
